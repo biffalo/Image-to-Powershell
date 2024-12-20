@@ -1,4 +1,4 @@
-# 🖼️ Image-to-Console Renderer
+# 🖼️ Image-to-Powershell Renderer
 
 This PowerShell script takes an image file, resizes it to fit your terminal window, and prints it using colored Unicode characters. It's a neat way to display images directly in your console!
 
