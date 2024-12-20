@@ -2,6 +2,8 @@
 
 This PowerShell script takes an image file, resizes it to fit your terminal window, and prints it using colored Unicode characters. It's a neat way to display images directly in your console!
 
+![Alt text](https://github.com/biffalo/Image-to-Powershell/blob/main/preview.png?raw=true)
+
 ## ✨ Features
 
 - **Adaptive Scaling**: Choose between filling the terminal or maintaining aspect ratio to fit the console dimensions.
